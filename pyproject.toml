@@ -1,0 +1,22 @@
+[project]
+name        = 'rx_tables'
+description = 'Project used to hold files used to make tables' 
+version     = '0.0.1'
+readme      = 'README.md'
+dependencies= [
+'pandas',
+]
+
+[project.optional-dependencies]
+dev  = ['pytest']
+
+[tools.setuptools.packages.find]
+where= ['src']
+
+[project.scripts]
+
+[tool.setuptools.package-data]
+'rx_tables_data' = ['*/*.csv']
+
+[tool.setuptools]
+script-files=[]

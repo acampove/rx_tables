@@ -1,0 +1,25 @@
+Analysis,Run,q2,Trigger,N_mm, Err_mm, N_ee, Err_ee
+rk,r1,low,loi,85,11,30,8
+rk,r1,low,lol,238,17,42,8
+rk,r2p1,low,loi,88,10,41,9
+rk,r2p1,low,lol,230,17,40,8
+rk,r2p2,low,loi,169,14,88,14
+rk,r2p2,low,lol,440,23,78,12
+rk,r1,central,loi,307,20,156,18
+rk,r1,central,lol,899,33,152,16
+rk,r2p1,central,loi,340,21,164,18
+rk,r2p1,central,lol,831,32,175,17
+rk,r2p2,central,loi,681,30,286,25
+rk,r2p2,central,lol,1630,45,320,23
+rkst,r1,low,loi,84,10,26,6
+rkst,r1,low,lol,171,14,32,7
+rkst,r2p1,low,loi,100,10,31,8
+rkst,r2p1,low,lol,152,13,36,7
+rkst,r2p2,low,loi,154,13,74,11
+rkst,r2p2,low,lol,340,19,72,10
+rkst,r1,central,loi,114,12,53,10
+rkst,r1,central,lol,266,18,43,8
+rkst,r2p1,central,loi,155,14,57,11
+rkst,r2p1,central,lol,294,19,63,10
+rkst,r2p2,central,loi,297,19,139,15
+rkst,r2p2,central,lol,617,27,128,14
