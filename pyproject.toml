@@ -4,6 +4,7 @@ description = 'Project used to hold files used to make tables'
 version     = '0.0.1'
 readme      = 'README.md'
 dependencies= [
+'data_manipulation_utilities',
 'pandas',
 ]
 
